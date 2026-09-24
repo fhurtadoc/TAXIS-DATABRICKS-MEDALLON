@@ -58,4 +58,4 @@ for i, quarter in enumerate(quarters):
         print(f"\n⏳ Quarter {i+1} completed. Pausing for {wait_time_seconds}s to free up network load...")
         time.sleep(wait_time_seconds)
 
-print("\n🎉 Bronze 2026 ingestion pipeline completed.")
+print("\n🎉 Bronze 2026 ingestion pipeline completed all data is READY")
