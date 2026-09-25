@@ -13,3 +13,9 @@
 [2026-09-25 23:07:52] WARNING: Column 'Airport_fee' is discarded from the YELLOW dataset because there are no matches during the merge or its homologue is unknown.
 [2026-09-25 23:07:52] WARNING: Column 'trip_type' is discarded from the GREEN dataset because there are no matches during the merge or its homologue is unknown.
 [2026-09-25 23:07:52] WARNING: Column 'ehail_fee' is discarded from the GREEN dataset because there are no matches during the merge or its homologue is unknown.
+[2026-09-25 23:30:04] WARNING: Column 'Airport_fee' is discarded from the YELLOW dataset because there are no matches during the merge or its homologue is unknown.
+[2026-09-25 23:30:04] WARNING: Column 'trip_type' is discarded from the GREEN dataset because there are no matches during the merge or its homologue is unknown.
+[2026-09-25 23:30:04] WARNING: Column 'ehail_fee' is discarded from the GREEN dataset because there are no matches during the merge or its homologue is unknown.
+[2026-09-25 23:34:46] WARNING: Column 'Airport_fee' is discarded from the YELLOW dataset because there are no matches during the merge or its homologue is unknown.
+[2026-09-25 23:34:46] WARNING: Column 'trip_type' is discarded from the GREEN dataset because there are no matches during the merge or its homologue is unknown.
+[2026-09-25 23:34:46] WARNING: Column 'ehail_fee' is discarded from the GREEN dataset because there are no matches during the merge or its homologue is unknown.
